@@ -51,7 +51,12 @@ var BeautifulJekyllJS = {
         // if I want to do something once the image is ready: `prefetchImg.onload = function(){}`
 
         setTimeout(function(){
-          var img = $("<div></div>").addClass("big-img-transition").css("background-image", 'url(' + src + ')');
+          var img = $("<div></div>").addClass("big-img-transition").css({
+  "background-image": 'url(' + src + ')',
+  "background-position": "center 50%",
+  "background-size": "cover",
+  "background-repeat": "no-repeat"
+});
           $(".intro-header.big-img").prepend(img);
           setTimeout(function(){ img.css("opacity", "1"); }, 50);
 
@@ -85,7 +90,12 @@ var BeautifulJekyllJS = {
   },
 
   setImg : function(src, desc) {
-    $(".intro-header.big-img").css("background-image", 'url(' + src + ')');
+    $(".intro-header.big-img").css({
+  "background-image": 'url(' + src + ')',
+  "background-position": "center 50%",
+  "background-size": "cover",
+  "background-repeat": "no-repeat"
+});
     if (typeof desc !== typeof undefined && desc !== false) {
       $(".img-desc").text(desc).show();
     } else {
