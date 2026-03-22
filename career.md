@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-<br/>
+
 # Professional Experience
 * **Postdoctoral research scientist** (Aug. 2024 - Present)
   * Scripps Institution of Oceanography, University of California San Diego; La Jolla, Calif.
