@@ -2,7 +2,7 @@
 layout: page
 title: Acoustic Researcher
 subtitle: Marine Physical Laboratory/Scripps Institution of Oceanography (MPL/SIO)
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/ASA_dkim_1.jpg
 ---
 
 <br/>
