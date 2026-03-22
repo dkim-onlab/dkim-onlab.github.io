@@ -9,7 +9,7 @@ title: Publication
 
 # Research Papers
 
-### Journal Papers
+<!-- ### Journal Papers -->
 
 - **Donghyeon Kim** and Gihoon Byun, _“Green's function extrapolation with a generalized waveguide invariant,”_ [Journal of Theoretical and Computational Acoustics](https://doi.org/10.1142/S2591728526500064), vol. 72, pp. 2650006 1–15, 2026.
 
