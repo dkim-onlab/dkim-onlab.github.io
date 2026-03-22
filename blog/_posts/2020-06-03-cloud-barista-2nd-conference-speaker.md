@@ -7,6 +7,7 @@ gh-badge: [star, fork, follow]
 cover-img: /assets/img/path.jpg
 tags: [Cloud-Barista, CB-Tumblebug, Multi-cloud, seokho son, open source]
 comments: true
+published: false
 ---
 
 오픈소스 멀티 클라우드 플랫폼 프로젝트인 [Cloud-Barista의 두 번째 릴리스 행사](https://www.allshowtv.com/detail.html?idx=199)에서
