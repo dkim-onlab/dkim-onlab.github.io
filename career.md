@@ -9,7 +9,6 @@ title: Curriculum Vitae
   * Scripps Institution of Oceanography, University of California San Diego; La Jolla, Calif.
 * **Research Professor** (Mar. 2023 - Jul. 2024)
   * UVRC-KMOU, Busan, Korea
- 
 
 # Education
 * **Ph.D., Convergence Study on the Ocean Science and Technology**
