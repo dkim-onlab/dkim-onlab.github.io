@@ -3,9 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-# Curriculum Vitae
-
-<a href="/assets/files/CV.pdf" class="btn">[Download CV]</a>
+For a comprehensive overview of my work, please refer to my CV: <a href="/assets/files/CV.pdf" class="btn">[Download CV]</a>
 
 <br/>
 
