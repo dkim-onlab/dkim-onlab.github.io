@@ -60,6 +60,18 @@
   </li>
 {%- endif -%}
 
+{%- if site.social-network-links.googlescholar -%}
+  <li class="list-inline-item">
+    <a href="https://scholar.google.com/citations?user={{ site.social-network-links.googlescholar }}" title="Google Scholar">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Google Scholar</span>
+   </a>
+  </li>
+{%- endif -%}
+
 {%- if site.social-network-links.telegram -%}
   <li class="list-inline-item">
     <a href="https://t.me/{{ site.social-network-links.telegram }}" title="Telegram">
