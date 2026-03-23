@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /cv/
+permalink: /CV/
 ---
 
 For a comprehensive overview of my work, please refer to my CV: <a href="/assets/files/CV.pdf" class="btn">[Download CV]</a>
