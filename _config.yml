@@ -17,7 +17,7 @@ navbar-links:
   Blog: "blog"
   # Project: "project"
   # GitHub: "https://github.com/seokho-son"
-  # Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
+  # Google Scholar: "https://scholar.google.com/citations?user=8SwZoVQAAAAJ&hl=en&oi=sra"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
@@ -40,6 +40,7 @@ social-network-links:
   github: dkim8989
   linkedin: "dkim89"
   orcid: "0000-0002-1839-1666"
+  googlescholar: "https://scholar.google.com/citations?user=8SwZoVQAAAAJ&hl=en&oi=sra"
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
