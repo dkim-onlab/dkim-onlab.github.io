@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acoustic Researcher
+title: Donghyeon Kim's webpage
 subtitle: Marine Physical Laboratory/Scripps Institution of Oceanography (MPL/SIO)
 cover-img: /assets/img/ASA_dkim_1.jpg
 ---
