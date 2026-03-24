@@ -17,8 +17,6 @@ You can also be found from [Google Scholar](https://scholar.google.com/citations
 
 - **Donghyeon Kim** and Gihoon Byun, _“Green's function extrapolation with a generalized waveguide invariant,”_ [Journal of Theoretical and Computational Acoustics](https://doi.org/10.1142/S2591728526500064), vol. 72, pp. 2650006 1–15, 2026.
 
-- **Donghyeon Kim** and Gihoon Byun, _“Green's function extrapolation with a generalized waveguide invariant,”_ [Journal of Theoretical and Computational Acoustics](https://doi.org/10.1142/S2591728526500064), vol. 72, pp. 2650006 1–15, 2026.
-
 - Yujin Lee, **Donghyeon Kim**, and Gihoon Byun, _“Matched-field processing using phase compensation to correct array tilt mismatch,”_ [Journal of the Acoustical Society of Korea](https://doi.org/10.7776/ASK.2025.44.4.407), vol. 44, pp. 407-415, 2025.
 
 - **Donghyeon Kim** and Gihoon Byun, _“Localization of multiple uncorrelated sources using matched field processing with multiple tilt constraints,”_ [Journal of the Acoustical Society of Korea](https://doi.org/10.7776/ASK.2025.44.4.416), vol. 44, pp. 416-427, 2025.
@@ -35,9 +33,9 @@ You can also be found from [Google Scholar](https://scholar.google.com/citations
 
 - Gihoon Byun, **Donghyeon Kim**, and Sung-Hoon Byun, _“Waveguide invariant-based source-range estimation in shallow water environments featuring a pit,”_ [Journal of the Acoustical Society of Korea](https://doi.org/10.7776/ASK.2024.43.4.466), vol. 43, pp. 466-474, 2024.
 
-- **Donghyeon Kim**, Gihoon Byun, Daehwan Kim, and Jeasoo Kim, _“The relationship between the array invariant-based ranging and the effective range in a weakly range-dependent environment,”_ [Journal of the Acoustical Society of Korea](https://doi.org/10.7776/ASK.2024.43.2.184), vol. 43, pp. 184-199, 2024.
+- **Donghyeon Kim**, Gihoon Byun, Daehwan Kim, and Jeasoo Kim, _“The relationship between the array invariant-based ranging and the effective range in a weakly range-dependent environment,”_ [Journal of the Acoustical Society of Korea](https://doi.org/10.7776/ASK.2024.43.4.455), vol. 43, pp. 455-465, 2024.
 
-- **Donghyeon Kim**, Gihoon Byun, Jeasoo Kim, and Kicheol Shin, _“Gram-Schmidt process based adaptive time-reversal processing,”_ [Journal of the Acoustical Society of Korea](https://doi.org/10.1121/10.0036381), vol. 157, pp. 2473-2476, 2025.
+- **Donghyeon Kim**, Gihoon Byun, Jeasoo Kim, and Kicheol Shin, _“Gram-Schmidt process based adaptive time-reversal processing,”_ [Journal of the Acoustical Society of Korea](https://doi.org/10.7776/ASK.2024.43.2.184), vol. 43, pp. 184-199, 2024.
 
 - Seoje Jeong, Wookeen Chung, Sungryul Shin, **Donghyeon Kim**, Jeasoo Kim, Gihoon Byun, Dawoon Lee, _“Development of Dolphin Click Signal Classification Algorithm Based on Recurrent Neural Network for Marine Environment Monitoring,”_ [Geophysics and Geophysical Exploration](https://kiss.kstudy.com/Detail/Ar?key=4039082), vol. 26, pp. 126-137, 2023.
 
