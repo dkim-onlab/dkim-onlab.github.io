@@ -60,11 +60,11 @@ For a comprehensive overview of my work, please refer to my CV: <a href="/assets
 # Teaching
 * (August 2026 − December 2026, for undergraduate students) TBD
 * (August 2026 − December 2026, for graduate students) TBD
-* (March 2022 − Jun 2022, for undergraduate students) Underwater Acoustics
-* (March 2022 − Jun 2022, for graduate students) Advanced Engineering Mathematics
+* (August 2023 − December 2023, for graduate students) Sonar Signal Processing
 * (August 2022 − December 2022, for graduate students) Sonar Engineering
 * (August 2022 − December 2022, for graduate students) Advanced Numerical Analysis
-* (August 2023 − December 2023, for graduate students) Sonar Signal Processing
+* (March 2022 − Jun 2022, for undergraduate students) Underwater Acoustics
+* (March 2022 − Jun 2022, for graduate students) Advanced Engineering Mathematics
 
 <br/>
 
